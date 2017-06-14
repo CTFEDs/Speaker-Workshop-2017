@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Speaking workshop tips</title>
+        <ownerName></ownerName>
+    </head>
+    <body>
+        <outline text="Speaking workshop tips">
+            <outline text="debunk">
+                <outline text="&quot;I have nothing to talk about&quot;">
+                    <outline text="Your point of view and your way of expressing it is unique."></outline>
+                    <outline text=" about anything you know to any audience that doesn’t already know it."></outline>
+                    <outline text="You can also talk about something brand new for you. It doesn’t matter if you don’t know anything about the topic yet, either, since I promise you will know a lot about it when you give the talk. Giving a talk is a fantastic way to learn. Give the talk you want to hear."></outline>
+                </outline>
+                <outline text="“I’d be a terrible speaker”">
+                    <outline text="You need only two things to be a great speaker: practice and confidence. The fastest route to confidence is practice, so really you just need practice. Practice means: rehearsing your talk a few times before giving it, but also giving more talks to get better at preparing them."></outline>
+                    <outline text="start small"></outline>
+                </outline>
+                <outline text="“I’m afraid of public speaking”">
+                    <outline text="Most of us are intimidated by public speaking. I’m afraid every single time, but then, because I’m prepared and I’ve practiced, everything goes well and I end up feeling great."></outline>
+                </outline>
+                <outline text="“I’m not nearly as nerdy and intense as some of those guys I’ve seen give talks”">
+                    <outline text="Those guys don’t represent programmers in general, and you should not compare yourself with them. Be you. That’s the whole point of having diverse people participate; for diverse viewpoints."></outline>
+                </outline>
+                <outline text="“But I’m not ready yet!”">
+                    <outline text="All you need to prepare and submit is a talk proposal. Spend an evening sketching out an idea, and write up a paragraph describing the theme. If your proposal is accepted, then you can get to work on getting the talk prepared."></outline>
+                </outline>
+                <outline text="don't be afraid to repeat your talk"></outline>
+                <outline text="I don’t see myself as a developer-y enough developer to warrant giving a talk on developing">
+                    <outline text="speaking is one of the best way to solidify what you have learned, along with spreading it to others."></outline>
+                </outline>
+                <outline text="I’m not an expert, why would anybody want to listen to me?"></outline>
+                <outline text="I’m going to sound stupid."></outline>
+                <outline text="What if I mess up?"></outline>
+                <outline text="I don’t have anything interesting to say."></outline>
+                <outline text="Just tell yourself that this is the result of fear of a new situation. Then tell yourself there are no lions waiting out there to eat you and that you can do this."></outline>
+            </outline>
+            <outline text="preparing a talk">
+                <outline text="start with a sentence"></outline>
+                <outline text="write the abstract">
+                    <outline text="4-6 sentences. Background and introduction. Problem statement/thesis. What can the audience expect to takeaway from the talk?"></outline>
+                </outline>
+                <outline text="write the outline"></outline>
+                <outline text="make a slide outline"></outline>
+                <outline text="presentation software"></outline>
+                <outline text="run throughs">
+                    <outline text="at least a couple"></outline>
+                </outline>
+                <outline text="Raise your profile by producing blog content that means something to you and will also provide value to your readers">
+                    <outline text="Writing about your work or side projects can give you material for talks, so it’s less of a strain to come up with a topic. It also gives your name credibility if that content starts to make the rounds on social media and industry newsletters."></outline>
+                </outline>
+                <outline text="Do your homework">
+                    <outline text="Picking the right event">
+                        <outline text="Submit to local events first to gain experience and exposure. … You can also benefit at any point in your speaking career by practicing talks at local meetups before taking them to larger conferences."></outline>
+                    </outline>
+                    <outline text="Research on the event">
+                        <outline text="A winning proposal will identify how your topic fits in with the overall conference agenda, highlighting who stands to benefit from learning from you; and, what they’ll get out of it."></outline>
+                    </outline>
+                    <outline text="Becoming a part of the community">
+                        <outline text="By experiencing an event before you submit a talk, you can also potentially network with the very people who will approve your proposal."></outline>
+                        <outline text="It helps to attend conferences if you want to speak at said conferences"></outline>
+                    </outline>
+                </outline>
+                <outline text="Have a clear reason for giving the talk"></outline>
+                <outline text="Know your ideas, not the exact words"></outline>
+                <outline text="Stay on topic"></outline>
+                <outline text="Types">
+                    <outline text="The Case Study"></outline>
+                    <outline text="The Deep Dive"></outline>
+                    <outline text="The Overview"></outline>
+                    <outline text="The “Let Me Show You”"></outline>
+                </outline>
+                <outline text="practice, again and again">
+                    <outline text="When you know a presentation and are confident in giving it you become freer to improvise, to play to the crowd, to react to the room. Your mind is no longer concerned with messing it up, its free to improvise and be creative."></outline>
+                    <outline text="Rehearse"></outline>
+                </outline>
+                <outline text="Slides">
+                    <outline text="Make it readable"></outline>
+                    <outline text="Avoid bullets"></outline>
+                    <outline text="Use code carefully"></outline>
+                    <outline text="Shape first, design later"></outline>
+                    <outline text="Invest time or money into images"></outline>
+                </outline>
+                <outline text="their feedback is critical to my process"></outline>
+            </outline>
+            <outline text="submitting a talk">
+                <outline text="don’t rely on reputation"></outline>
+                <outline text="tell what you’re going to SAY"></outline>
+                <outline text="provide links to your stuff, if you want them to look at it"></outline>
+                <outline text="check the detail, make it polished"></outline>
+                <outline text="the title draws people to the talk"></outline>
+                <outline text="You don’t have to know everything about the topic when you write the abstract; in fact, you should leave some mystery for the talk itself! You have time to research and fill in the details after you submit the abstract."></outline>
+                <outline text="Ask for feedback on your proposals"></outline>
+                <outline text="Starting with (almost) nothing">
+                    <outline text="It’s common"></outline>
+                    <outline text="It’s a great way to motivate yourself"></outline>
+                    <outline text="It’s a great way to learn"></outline>
+                    <outline text="But warning: It can be a lot of work"></outline>
+                    <outline text="Learning from rejection"></outline>
+                </outline>
+                <outline text="Direct the proposal to the attendees, not the curators"></outline>
+                <outline text="Be specific about the focus your talk will have">
+                    <outline text="Generally speaking, a shallow introduction to many things is not as interesting as an in-depth introduction to one thing."></outline>
+                </outline>
+                <outline text="Make your point as succinctly as you can"></outline>
+                <outline text="Have your proposal reviewed by someone with experience"></outline>
+                <outline text="Always follow outlined Call for Speakers rules"></outline>
+                <outline text="Ask friends to proof-read"></outline>
+                <outline text="Be succinct"></outline>
+                <outline text="Use inclusive language and avoid shaming"></outline>
+                <outline text="Stay away from product pitches"></outline>
+                <outline text="Show, don’t tell"></outline>
+                <outline text="Submit more than one proposal"></outline>
+                <outline text="Imagine who will be at the conference"></outline>
+                <outline text="Imagine the decision to see your talk"></outline>
+                <outline text="Capture that excitement in your proposal"></outline>
+                <outline text="Tell a story"></outline>
+                <outline text="Don’t bury the lead"></outline>
+                <outline text="Seal the deal in the description"></outline>
+                <outline text="Pick a topic you feel passionate about and research what topics the conference might be interested in."></outline>
+                <outline text="Good bio"></outline>
+                <outline text="Set the right goal."></outline>
+                <outline text="Show them you’ve been there."></outline>
+                <outline text="pick a relevant topic to discuss"></outline>
+                <outline text="tell organizers what you're going to discuss with some detail."></outline>
+                <outline text="Awesome bio"></outline>
+                <outline text="Specify the audience and the takeaways."></outline>
+                <outline text="Put the important facts first."></outline>
+            </outline>
+            <outline text="giving a talk">
+                <outline text="Your content is conference value. Don’t feel ashamed of asking conferences to pay."></outline>
+                <outline text="When someone compliments your talk, say thank you, don’t argue. Engage them."></outline>
+                <outline text="Never apologize at the beginning of a talk."></outline>
+                <outline text="Long introductions mean you can get less content in. Tighten them up to almost nothing."></outline>
+                <outline text="You run long. Write your talks to be shorter than the window."></outline>
+                <outline text="Be an accessible, persuasive speaker">
+                    <outline text="Public speakers should leave the audience feeling good. The purpose of getting up in front of a conference (usually) is to spread awareness about a new technology or initiative, teach people something, and entertain them. As an audience member, I value when speakers are approachable and bring me along, rather than making me feel bad because I’m not on their level yet. If they show a bit of vulnerability by saying how they failed before getting it right, even better."></outline>
+                </outline>
+                <outline text="Upload your slides in advance so the audience can follow along."></outline>
+                <outline text="Arrive early to your talk room"></outline>
+                <outline text="Have backups everywhere (Google Drive, Dropbox, iCloud)"></outline>
+                <outline text="Take off your badge before you begin"></outline>
+                <outline text="Co-presenting"></outline>
+                <outline text="Combating nervousness">
+                    <outline text="the nervousness is designed to warn you of potential danger, but there’s no real danger. You can thank your body for the consideration and calmly say, “I got this.”"></outline>
+                </outline>
+                <outline text="Tell a story"></outline>
+                <outline text="Be enthusiastic"></outline>
+                <outline text="Don’t try to be funny"></outline>
+                <outline text="Be yourself"></outline>
+                <outline text="Speak slowly"></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
