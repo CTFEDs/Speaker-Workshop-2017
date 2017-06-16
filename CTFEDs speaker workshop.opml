@@ -6,28 +6,21 @@
     </head>
     <body>
         <outline text="CTFEDs speaker workshop">
-            <outline text="Set a date, then work it back from there"></outline>
-            <outline text="The talk">
-                <outline text="topic"></outline>
-                <outline text="talk">
-                    <outline text="elevator pitch"></outline>
-                    <outline text="outline"></outline>
+            <outline text="blurb">
+                <outline text="practical">
+                    <outline text="advice"></outline>
+                    <outline text="exercises"></outline>
+                    <outline text="do a lightning talk at the end of the session"></outline>
+                    <outline text="pinboard links"></outline>
+                    <outline text="Slack channel(s) after to stay connected?"></outline>
                 </outline>
-                <outline text="presentation">
-                    <outline text="slides"></outline>
-                    <outline text="practice"></outline>
+                <outline text="debunking"></outline>
+                <outline text="at the end you’ll have:">
+                    <outline text="short bio"></outline>
+                    <outline text="headshot (?)"></outline>
+                    <outline text="ideas for talks"></outline>
+                    <outline text="given a talk!"></outline>
                 </outline>
-            </outline>
-            <outline text="practical">
-                <outline text="do a lightning talk at the end of the session"></outline>
-                <outline text="advice"></outline>
-                <outline text="exercises"></outline>
-                <outline text="Slack channel(s) after to stay connected?"></outline>
-            </outline>
-            <outline text="research">
-                <outline text="pinboard links"></outline>
-                <outline text="Lara Hogan book"></outline>
-                <outline text="existing CTFEDs Call For Speakers page"></outline>
             </outline>
             <outline text="coaches / mentors">
                 <outline text="find them on">
@@ -49,15 +42,6 @@
                 <outline text="Interaction">
                     <outline text="On the day"></outline>
                     <outline text="After"></outline>
-                </outline>
-            </outline>
-            <outline text="blurb">
-                <outline text="practical"></outline>
-                <outline text="debunking"></outline>
-                <outline text="at the end you’ll have:">
-                    <outline text="short bio"></outline>
-                    <outline text="headshot (?)"></outline>
-                    <outline text="idea for talk"></outline>
                 </outline>
             </outline>
         </outline>
