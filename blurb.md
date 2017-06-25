@@ -2,7 +2,7 @@ After a short hiatus and many discussions, we're back! And this time round the w
 
 **About the workshop**
 
-We are trying our best to encourage and help people who are **under-represented in tech**, because it's hard to make it in if you're on the outside. If you identify with this, we'd love you to come! If you don't necessarily identify with this, but know someone who does, you are welcome to join as their guest.
+We are trying our best to encourage and help people who are **under-represented in tech**, because it's hard to make it in if you're on the outside. If you're in a group that's under-represented in tech, we'd love you to come! If you're not, but know someone who is: help us make the world more awesome by telling them about this workshop and coming as their guest.
 
 Public speaking can be a bit intimidating at first, but it's a **super valuable skill to have**. Not only socially but also in terms of knowing how to promote yourself, your ideas, and advancing your career in tech. So we've put together a workshop to help you get started.
 
