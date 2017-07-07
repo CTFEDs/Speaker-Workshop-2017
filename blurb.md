@@ -1,8 +1,10 @@
+**Workshop: The fine (and fun!) art of public speaking**
+
 After a short hiatus and many discussions, we're back! And this time round the workshop focus will be on public speaking and the fine art of presenting and sharing your knowledge with others.
 
 **About the workshop**
 
-We are trying our best to encourage and help people who are **under-represented in tech**, because it's hard to make it in if you're on the outside. If you identify with this, we'd love you to come! If you don't necessarily identify with this, but know someone who does, you are welcome to join as their guest.
+We are trying our best to encourage and help people who are **under-represented** in tech (for example: women, LGBTQIA folk), because it's hard to make it in if you're on the outside. If this is you, we'd love you to come! If this isn't you, you're welcome as a guest of someone who is. Help us out and spread the word by inviting any under-represented peeps you know who might be interested!
 
 Public speaking can be a bit intimidating at first, but it's a **super valuable skill to have**. Not only socially but also in terms of knowing how to promote yourself, your ideas, and advancing your career in tech. So we've put together a workshop to help you get started.
 
