@@ -1,7 +1,7 @@
 # TODO
 
-- [ ] Update "find the dev" game from RailsBridge
-- [ ] Print "find the speaker" game
+- [ ] Put name stickers and pens at reception
+- [ ] Put example name tag down
 
 # Notes
 
