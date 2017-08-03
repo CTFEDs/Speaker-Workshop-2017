@@ -52,39 +52,6 @@ Things that you think stop you from speaking, but maybe don't have to
 
 ## **Myth :no_good:**
 
-## "I can’t do it"
-
----
-
-## **Debunk :ok_woman:**
-
-## "I can’t do it... yet"#
-
-^ You can learn, grow
-Who was born knowing how to...
-- use a computer
-- use email
-
----
-
-## **Myth :no_good:**
-
-## “I’m afraid of<br>public speaking”
-
----
-
-## **Debunk :ok_woman:**
-
-## Most of us are! :grimacing:
-
-^ Practice helps.
-It’s okay to be nervous. It’s because you care.
-Listen, acknowledge it. Make a plan of action.
-
----
-
-## **Myth :no_good:**
-
 ## “I’d be a terrible speaker”
 
 ---
@@ -94,53 +61,8 @@ Listen, acknowledge it. Make a plan of action.
 ## 	You don’t need to<br>be perfect
 
 ^ Just “good enough”.
-Gain confidence.
-Start small, Practice a lot.
-
----
-
-## **Myth :no_good:**
-
-## “I’ll get it wrong.”
-
----
-
-## **Debunk :ok_woman:**
-
-## Get comfortable with<br>“I don’t know.” :blush:
-
-^ Who here has memorised Wikipedia?
-It’s okay to make mistakes
-It’s part of learning
-Part of being a developer!
-
----
-
-## **Myth :no_good:**
-
-## “There are unbreakable, must-do, rules for speaking.”
-
----
-
-## **Debunk :ok_woman:**
-
-## Nope. Be yourself.
-
----
-
-## **Myth :no_good:**
-
-## “I’m not nerdy and developer-y enough”
-
----
-
-## **Debunk :ok_woman:**
-
-## You don’t need to be<br>to succeed
-
-^ Maybe we don't need more scary people like that...
-You just need a little confidence, willingness to try
-We need diverse viewpoints.
+Start small, Practice a lot. You can learn, grow.
+Everyone gets nervous. It’s because you care.
 
 ---
 
@@ -152,29 +74,12 @@ We need diverse viewpoints.
 
 ## **Debunk :ok_woman:**
 
-## You have expertise, even when you’re new.
+## You don’t need to be<br>to succeed
 
-^ Speaking solidifies what you have learned.
-Speaking spreads it to others.
-What doesn’t the audience already know?
-
----
-
-## **Myth :no_good:**
-
-## "I have nothing<br>to talk about"
-
----
-
-## **Debunk :ok_woman:**
-
-## Yes, you do
-
-^ Your point of view is unique.
-Your way of expressing things is unique.
+^ You don't need to be a super-nerd.
+Making mistakes is part of learning, and being a dev.
+Your point of view, way of seeing things, is unique. We need diverse viewpoints.
 Your background, education, experience.
-Talk about something brand new for you.
-Giving a talk is a fantastic way to learn
 
 ---
 
@@ -262,18 +167,9 @@ conferences
 
 ## Write it on the poster :pencil:
 
-^ Could, not will or should
-Go wide!
+^ Go wide!
 Dani & Steve discuss the results
 *cough* CTFEDs *cough*
-
----
-
-### **Activity** :sparkles:
-
-## Where *will* you speak?<br>:smile:
-
-## Pick one!<br>Write it on a sticky
 
 ---
 
@@ -327,14 +223,7 @@ Specify the audience.
 ## Bio
 
 ^ to the wall
-
----
-
-**Danielle Eriksen** is an artist and graphic designer turned front-end developer, with a long and winding path in-between... Currently growing her skills as a front-ender with the [New Media Labs](http://newmedialabs.co.za/) team and enjoying every minute of it! Loves learning new things and sharing with others. When not gardening, playing with cats or puzzling out the next problem that needs solving, she dedicates her time and energy to introducing newcomers to Ruby on Rails with the [RailsBridge Cape Town](https://railsbridgecapetown.org/) group.
-
----
-
-**Steve Barnett** works as Front-end developer and User Experience consultant. He loves applying User-Centered Design principles to Front-end development. He’s a bit addicted to [meetups and community things](https://naga.co.za/community/): you can often find him helping out with [RailsBridge Cape Town](https://railsbridgecapetown.org/), [Cape Town Front-End Developers](http://www.meetup.com/ctfeds/), running a [device lab](http://devicelab.co.za/) session, or at a conference giving a talk or facilitating a workshop. If he’s not there, he’s probably crouched in an awkward position in front of something funny-looking, [taking pictures of it](https://www.instagram.com/maxbarners/).
+Dani, Steve, do tiny example of themselves
 
 ---
 
@@ -342,7 +231,8 @@ Specify the audience.
 
 ## Write a bio
 
-^ handout
+^ This is just the first draft
+Write it, then revise it
 
 ---
 
@@ -383,16 +273,22 @@ Examples? This meetup group, our poster list
 
 ## Good feedback is<br>**specific, actionable**
 
-^ I don't like X
+^ "I don't like it."
+:point_down:
+"I'm not sure about the opening."
+:point_down:
+"I think the opening wasn't clear enough."
 Does it work for the audience?
 
 ---
 
 ### **Activity** :sparkles:
 
+## Pair up
+
 ## Read your abstract
 
-## Write down feedback on other people's
+## Write down feedback
 
 ^ Gonna go around the table and read
 Practice speaking!
@@ -402,11 +298,12 @@ Feedback at the end of everyone reading
 
 ### **Feedback** :clap:
 
-## 1 thing **you liked**
+## 1 thing you liked
 
-## 1 thing **they could<br>do differently**
+## 1 thing they could<br>do differently
 
-^ take it or leave it!
+^ say why
+take it or leave it!
 
 ---
 
@@ -511,17 +408,23 @@ any questions?
 
 ### **Activity** :sparkles:
 
-## Give your :zap: lightning talk to your table
+## Give your :zap: lightning talk to your group
+
+## It's only a first draft :blush:
+
+^ Groups of 4
+Not gonna be perfect
+But will give you some useful feedback, some new ideas
 
 ---
 
 ### **Feedback** :clap:
 
-## 1 thing **you liked**
+## 1 thing you liked
 
-## 1 thing **they could<br>do differently**
+## 1 thing they could<br>do differently
 
-## Write on stickies
+## Given them stickies
 
 ^ take it or leave it!
 
