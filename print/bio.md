@@ -16,6 +16,10 @@ theme: Ostrich, 6
 
 ---
 
+# Something personal
+
+---
+
 # Other talks or workshops you've done?
 
 ---

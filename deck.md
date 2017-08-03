@@ -8,7 +8,7 @@ theme: Fira, 2
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Why are **you** here today?
 
@@ -16,11 +16,11 @@ theme: Fira, 2
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Introduce yourself to someone new
 
-## Share your answer
+## Share why you<br>are here today
 
 ---
 
@@ -29,11 +29,10 @@ theme: Fira, 2
 ^ Dani, Steve
 Speaking and workshop history
 Worst speaking mistake(s)
-Show 20s of me at that first WordCamp?
 
 ---
 
-# **Agenda**
+## **Agenda**
 
 ^ Put up A4s
 - write a bio
@@ -92,7 +91,7 @@ Listen, acknowledge it. Make a plan of action.
 
 ## **Debunk :ok_woman:**
 
-## 	You don’t need to be perfect
+## 	You don’t need to<br>be perfect
 
 ^ Just “good enough”.
 Gain confidence.
@@ -194,10 +193,11 @@ Giving a talk is a fantastic way to learn
 ^ Submit a proposal
 If it’s accepted, work on the talk.
 You don’t have to know everything about the topic when you write the abstract
+You can buddy up with someone: we can help with that! 😬
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## What was the most interesting thing? 🤔
 
@@ -212,16 +212,17 @@ You don’t have to know everything about the topic when you write the abstract
 # Debunking myths **:heavy_check_mark:**    
 
 ^ tick it off on the wall
+any questions?
 
 ---
 
 ## **Section:**
 
-# Preparation
+# Getting Started
 
 ---
 
-### **Preparation**
+### **Getting Started**
 
 ## Write about your work<br>or side projects
 
@@ -235,20 +236,17 @@ Value to your readers
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## What could you write<br>an article about?
 
-## Write the title<br>and description :pencil:
+## Write a topic idea or two :pencil:
 
-^ Give out handouts
-Something you learned
-Something you fixed
-Something unexpected
+^ We'll use one of them later
 
 ---
 
-### **Preparation**
+### **Getting Started**
 
 ## Picking the right event
 
@@ -258,9 +256,9 @@ conferences
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
-## Where could you speak? 🤔
+## Where *could* you speak?<br>🤔
 
 ## Write it on the poster :pencil:
 
@@ -271,27 +269,45 @@ Dani & Steve discuss the results
 
 ---
 
+### **Activity** :sparkles:
+
+## Where *will* you speak?<br>:smile:
+
+## Pick one!<br>Write it on a sticky
+
+---
+
 ## **Section:**
 
-# Preparation **:heavy_check_mark:**    
+# Getting Started **:heavy_check_mark:**    
 
 ^ tick it off on the wall
+any questions?
 
 ---
 
 ## **Section:**
 
-# Submitting a talk
+# Submitting<br>a talk
 
 ---
 
-## **Submitting a talk**
+### **Submitting a talk**
 
-# Talk Types
+## Talk Types
 
 ^ to the wall
-Code, tool, process, workflow?
-Mistakes we made
+Code, tool, process, workflow? Mistakes we made
+Want to talk, but don't know what yet
+Anyone seen one like this?
+
+---
+
+### **Activity** :sparkles:
+
+## Pick one talk type
+
+## Pick one of your topics from earlier
 
 ---
 
@@ -310,9 +326,11 @@ Specify the audience.
 
 ## Bio
 
+^ to the wall
+
 ---
 
-**Danielle Eriksen** is an artist and graphic designer turned front-end developer, with a long and winding path in-between... Currently growing her skills as a front-ender with the [New Media Labs](http://newmedialabs.co.za/) team and enjoying every minute of it! Loves learning new things and sharing with others. When not gardening, playing with cats or puzzling out the next problem that needs solving, she dedicates her time and energy to introducing newcomers to Ruby on Rails with the [RailsBridge Cape Town](https://railsbridgecapetown.org/) group, and helps teach and encourage young girls in Tech as part of [Code 4 CT](http://code4ct.com/).
+**Danielle Eriksen** is an artist and graphic designer turned front-end developer, with a long and winding path in-between... Currently growing her skills as a front-ender with the [New Media Labs](http://newmedialabs.co.za/) team and enjoying every minute of it! Loves learning new things and sharing with others. When not gardening, playing with cats or puzzling out the next problem that needs solving, she dedicates her time and energy to introducing newcomers to Ruby on Rails with the [RailsBridge Cape Town](https://railsbridgecapetown.org/) group.
 
 ---
 
@@ -320,9 +338,11 @@ Specify the audience.
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
-# Bio
+## Write a bio
+
+^ handout
 
 ---
 
@@ -336,23 +356,24 @@ Hand out handout
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Read the Abstract notes
 
-## Circle the most important thing in each section
+## Circle the most surprising thing in each section
 
 ^ A few mins to read it
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Write an abstract for your (5m) lightning talk
 
-## **Audience, Title, Description**
+## **Audience, Talk Type,<br>Title, Description**
 
-^ Topic? What do you write down earlier?
+^ Give out handouts
+Examples? This meetup group, our poster list
 
 ---
 
@@ -367,34 +388,44 @@ Does it work for the audience?
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Read your abstract
 
 ## Write down feedback on other people's
 
 ^ Gonna go around the table and read
+Practice speaking!
 Feedback at the end of everyone reading
 
 ---
 
-### **Activity**
+### **Feedback** :clap:
 
-## Get (specific, actionable) feedback
+## 1 thing **you liked**
 
-## 1 thing from each person
+## 1 thing **they could<br>do differently**
 
 ^ take it or leave it!
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## What was the best piece of feedback? 🤔
 
 ## Write it on the poster :pencil:
 
 ^ Dani & Steve discuss the results
+
+---
+
+## **Section:**
+
+# Submitting<br>a talk **:heavy_check_mark:**    
+
+^ tick it off on the wall
+any questions?
 
 ---
 
@@ -406,29 +437,21 @@ Feedback at the end of everyone reading
 
 ## **Section:**
 
-# Submitting a talk **:heavy_check_mark:**    
-
-^ tick it off on the wall
+# Preparing<br>a talk
 
 ---
 
-## **Section:**
-
-# Preparing a talk
-
----
-
-### **Activity**
+### **Activity** :sparkles:
 
 ## Read the "Preparing a talk" notes
 
-## Circle the most important thing in each section
+## Circle the most surprising thing in each section
 
 ---
 
 ## **Preparing a talk**
 
-# Practice
+## Practice
 
 ^ Maybe the best bit of advice
 3 big things
@@ -448,7 +471,7 @@ room to improvise.
 
 ## Your timing
 
-^ We tend to run really short of really long
+^ We tend to run really short or really long
 
 ---
 
@@ -460,38 +483,82 @@ room to improvise.
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
 ## Write a<br>:zap: lightning talk
 
 ^ About 5 minutes.
 A little short is fine.
-You already have your audience, title, abstract
+You already have your audience, talk type, title, abstract
+If you do slides, 1 or 2 plain ones is probably okay: not enough time for design today
 
 ---
 
-# :zap:
+## **Section:**
 
-^ Write down feedback on stickies
+# Preparing<br>a talk **:heavy_check_mark:**    
+
+^ tick it off on the wall
+any questions?
 
 ---
 
-### **Activity**
+## **Section:**
 
-## What surprised you? 🤔
+# Giving<br>a talk
+
+---
+
+### **Activity** :sparkles:
+
+## Give your :zap: lightning talk to your table
+
+---
+
+### **Feedback** :clap:
+
+## 1 thing **you liked**
+
+## 1 thing **they could<br>do differently**
+
+## Write on stickies
+
+^ take it or leave it!
+
+---
+
+### **Activity** :sparkles:
+
+## What's the most useful thing you learned today? 🤔
 
 ## Write it on the poster :pencil:
 
-^ Dani & Steve discuss the results
+^ About your talk
+About other people's talk
+About talks in general
+Dani & Steve discuss the results
 
 ---
 
-### **Activity**
+### **Activity** :sparkles:
 
-## SMART goal
+## "Hey buddy!"
+
+## What will you do next?
+
+^ SMART goal
+Submit your abstract somewhere
 
 ---
 
-### **(as you go) Activity**
+### **Activity** :sparkles:
+
+## Workshop feedback
+
+^ targets on the wall
+
+---
+
+### **(as you go)**
 
 ## Review the posters

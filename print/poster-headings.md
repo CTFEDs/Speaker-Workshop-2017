@@ -4,7 +4,7 @@ theme: Scherzkeks, 7
 
 ---
 
-## Where could you speak?
+## Where *could* you speak?
 
 ---
 
@@ -12,4 +12,4 @@ theme: Scherzkeks, 7
 
 ---
 
-## What surprised you?
+## What's the most useful thing<br>you learned today? 
