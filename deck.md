@@ -4,6 +4,8 @@ theme: Fira, 2
 
 ## the fine art of sharing<br>and presenting
 
+## **ctfeds.org/speakup**
+
 ^ put out nametags, w/ pronouns
 
 ---
@@ -109,6 +111,7 @@ You can buddy up with someone: we can help with that! 😬
 ## Write it on the poster :pencil:
 
 ^ Dani & Steve discuss the results
+Keep it short!
 
 ---
 
@@ -190,25 +193,6 @@ any questions?
 
 ### **Submitting a talk**
 
-## Talk Types
-
-^ to the wall
-Code, tool, process, workflow? Mistakes we made
-Want to talk, but don't know what yet
-Anyone seen one like this?
-
----
-
-### **Activity** :sparkles:
-
-## Pick one talk type
-
-## Pick one of your topics from earlier
-
----
-
-### **Submitting a talk**
-
 ## Audience
 
 ^ Who will be there?
@@ -223,6 +207,7 @@ Specify the audience.
 ## Bio
 
 ^ to the wall
+Will change a little depending on audience
 Dani, Steve, do tiny example of themselves
 
 ---
@@ -233,6 +218,17 @@ Dani, Steve, do tiny example of themselves
 
 ^ This is just the first draft
 Write it, then revise it
+
+---
+
+### **Submitting a talk**
+
+## Talk Types
+
+^ to the wall
+Code, tool, process, workflow? Mistakes we made
+Want to talk, but don't know what yet
+Anyone seen one like this?
 
 ---
 
@@ -264,6 +260,7 @@ Hand out handout
 
 ^ Give out handouts
 Examples? This meetup group, our poster list
+First draft! Rough!
 
 ---
 
