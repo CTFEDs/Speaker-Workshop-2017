@@ -5,7 +5,7 @@ title: Workshop stuff
 
 Training methods based on techniques in [Training From The Back Of The Room](http://bowperson.com/training-from-the-back-of-the-room/) by Sharon Bowman.
 
-Ideas and content gathered from **so many** places: see [resources](/resources) for a list.
+Ideas and content gathered from **so many** places: see [resources](resources/) for a list.
 
 ## Documents
 
