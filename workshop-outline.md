@@ -1,3 +1,8 @@
+---
+layout: default
+title: Workshop outline
+---
+
 # Workshop outline
 
 ---
@@ -70,7 +75,3 @@
 - **5m** Activity: Workshop feedback
 
 **55m**
-
----
-
-25 + 10 + 65 + 10 + 25 + 55 = 190 = 3h 10 m
