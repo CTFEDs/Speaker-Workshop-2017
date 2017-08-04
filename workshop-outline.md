@@ -1,44 +1,77 @@
-**Workshop outline**
+# Workshop outline
 
 ---
 
+## Intro & Debunking Myths
+
 - "Speak up!" the fine art of sharing and presenting
-- Activity :sparkles: Why are you here today? Write on a sticky note
+- **5m** Activity :sparkles: Why are you here today? Write on a sticky note
 - Activity :sparkles: Introduce yourself to someone new. Share why you are here today
-- Ohai! :wave:
-- Agenda
-- Section: Debunking myths
-- Activity :sparkles: What was the most interesting thing? 🤔 Write it on the poster :pencil:
-- Section: Getting Started
+- **5m** Ohai! :wave:
+- **5m** Agenda
+- **5m** Section: Debunking myths
+- **5m** Activity :sparkles: What was the most interesting thing? 🤔 Write it on the poster :pencil:
+
+**25m**
+
+---
+
+## Getting Started
+
 - Getting Started. Write about your work or side projects
-- Activity :sparkles: What could you write an article about? Write a topic idea or two :pencil:
+- **5m** Activity :sparkles: What could you write an article about? Write a topic idea or two :pencil:
 - Getting Started. Picking the right event
-- Activity :sparkles: Where *could* you speak? 🤔 Write it on the poster :pencil:
-- Section: Submitting a talk
-- Submitting a talk: Talk Types
-- Activity :sparkles: Pick one talk type. Pick one of your topics from earlier
+- **5m** Activity :sparkles: Where *could* you speak? 🤔 Write it on the poster :pencil:
+
+**10m**
+
+---
+
+## Submitting a talk
+
+- **5m** Submitting a talk: Talk Types
+- **5m** Activity :sparkles: Pick one talk type. Pick one of your topics from earlier
 - Submitting a talk: Audience
-- Submitting a talk: Bio
-- Activity :sparkles: Write a bio
+- **5m** Submitting a talk: Bio
+- **10m** Activity :sparkles: Write a bio
 - Submitting a talk: The abstract
-- Activity :sparkles: Read the Abstract notes. Circle the most surprising thing in each section.
-- Activity :sparkles: Write an abstract for your (5m) lightning talk. Audience, Talk Type, Title, Description.
+- **5m** Activity :sparkles: Read the Abstract notes. Circle the most surprising thing in each section.
+- **10m** Activity :sparkles: Write an abstract for your (5m) lightning talk. Audience, Talk Type, Title, Description.
 - Submitting a talk. Get feedback on your abstract. Good feedback is specific, actionable
-- Activity :sparkles: Pair up. Read your abstract. Write down feedback.
-- Feedback :clap: 1 thing you liked. 1 thing they could do differently.
-- Activity :sparkles: What was the best piece of feedback? 🤔 Write it on the poster :pencil:
-- Break! :coffee: :tea:
-- Section: Preparing a talk
-- Activity :sparkles: Read the "Preparing a talk" notes. Circle the most surprising thing in each section.
-- Preparing a talk. Practice.
-- Practice: Your words.
-- Practice: Your timing
-- Practice: Again and again
-- Activity :sparkles: Write a :zap: lightning talk
-- Section: Giving a talk
-- Activity :sparkles: Give your :zap: lightning talk to your group. It's only a first draft :blush:
-- Feedback :clap: 1 thing you liked. 1 thing they could do differently. Give them stickies.
-- Activity :sparkles: What's the most useful thing you learned today? 🤔 Write it on the poster :pencil:
-- Activity :sparkles: "Hey buddy!" What will you do next?
-- Activity :sparkles: Workshop feedback
-- (as you go) Review the posters
+- **5m** Activity :sparkles: Pair up. Read your abstract. Write down feedback.
+- **10m** Feedback :clap: 1 thing you liked. 1 thing they could do differently.
+- **5m** Activity :sparkles: What was the best piece of feedback? 🤔 Write it on the poster :pencil:
+
+**65**
+
+---
+
+## Break
+
+**10m**
+
+---
+
+## Preparing a talk
+
+- **5m** Activity :sparkles: Read the "Preparing a talk" notes. Circle the most surprising thing in each section.
+- **5m** Preparing a talk. Practice.
+- **15m** Activity :sparkles: Write a :zap: lightning talk
+
+**25m**
+
+---
+
+## Giving a talk
+
+- **30m** Activity :sparkles: Give your :zap: lightning talk to your group. It's only a first draft :blush:
+- **10m** Feedback :clap: 1 thing you liked. 1 thing they could do differently. Give them stickies.
+- **5m** Activity :sparkles: What's the most useful thing you learned today? 🤔 Write it on the poster :pencil:
+- **5m** Activity :sparkles: "Hey buddy!" What will you do next?
+- **5m** Activity :sparkles: Workshop feedback
+
+**55m**
+
+---
+
+25 + 10 + 65 + 10 + 25 + 55 = 190 = 3h 10 m
