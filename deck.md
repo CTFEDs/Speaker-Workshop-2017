@@ -424,7 +424,7 @@ But will give you some useful feedback, some new ideas
 
 ## 1 thing they could<br>do differently
 
-## Given them stickies
+## Give them stickies
 
 ^ take it or leave it!
 
