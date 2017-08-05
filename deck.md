@@ -299,6 +299,8 @@ Feedback at the end of everyone reading
 
 ## 1 thing they could<br>do differently
 
+## **^5** :hand:
+
 ^ say why
 take it or leave it!
 
@@ -415,13 +417,13 @@ But will give you some useful feedback, some new ideas
 
 ---
 
-### **Feedback** :clap:
+### **Feedback (on stickies)** :clap:
 
 ## 1 thing you liked
 
 ## 1 thing they could<br>do differently
 
-## Give them stickies
+## **^5** :hand:
 
 ^ take it or leave it!
 
