@@ -306,28 +306,12 @@ take it or leave it!
 
 ---
 
-### **Activity** :sparkles:
-
-## What was the best piece of feedback? 🤔
-
-## Write it on the poster :pencil:
-
-^ Dani & Steve discuss the results
-
----
-
 ## **Section:**
 
 # Submitting<br>a talk **:heavy_check_mark:**    
 
 ^ tick it off on the wall
 any questions?
-
----
-
-# **Break!**
-
-# :coffee: :tea:
 
 ---
 
@@ -399,6 +383,12 @@ any questions?
 
 ---
 
+# **Break!**
+
+# :coffee: :tea:
+
+---
+
 ## **Section:**
 
 # Giving<br>a talk
@@ -426,19 +416,14 @@ But will give you some useful feedback, some new ideas
 ## **^5** :hand:
 
 ^ take it or leave it!
+Need to time it.
+Stop at 5m, whatever happens.
 
 ---
 
-### **Activity** :sparkles:
+## **Section:**
 
-## What's the most useful thing you learned today? 🤔
-
-## Write it on the poster :pencil:
-
-^ About your talk
-About other people's talk
-About talks in general
-Dani & Steve discuss the results
+# Giving<br>a talk **:heavy_check_mark:**    
 
 ---
 
@@ -461,6 +446,4 @@ Submit your abstract somewhere
 
 ---
 
-### **(as you go)**
-
-## Review the posters
+# Thanks! :bow:
