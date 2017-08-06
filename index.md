@@ -7,10 +7,13 @@ Training methods based on techniques in [Training From The Back Of The Room](htt
 
 Ideas and content gathered from **so many** places: see [resources](resources/) for a list.
 
+The source for this workshop is available as a git repository on GitHub: [Speaker-Workshop-2017](https://github.com/CTFEDs/Speaker-Workshop-2017). Please feel free to share and use it!
+
 ## Documents
 
 * [Workshop Outline](workshop-outline/)
 * [Workshop slides](deck.pdf) (PDF, 4MB)
+    * [Deckset](http://decksetapp.com/)-flavoured markdown that it comes from: [deck.md](deck.md)
 * Handouts
     * [Abstract: structure and style](print/abstract-handout.pdf)
     * [The talk: structure and slides](print/preparing-a-talk-handout.pdf)
