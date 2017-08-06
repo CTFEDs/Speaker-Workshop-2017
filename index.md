@@ -21,3 +21,7 @@ The source for this workshop is available as a git repository on GitHub: [Speake
 * Wall print outs
     * [Bio](print/bio.pdf)
     * [Talk types](print/talk-types.pdf)
+
+## Photos
+
+[![](photos/thumbs/agenda.jpg)](photos/agenda.jpg) [![](photos/thumbs/workshop-1.jpg)](photos/workshop-1.jpg) [![](photos/thumbs/workshop-2.jpg)](photos/workshop-2.jpg) [![](photos/thumbs/workshop-3.jpg)](photos/workshop-3.jpg) [![](photos/thumbs/feedback.jpg)](photos/feedback.jpg) 
